@@ -100,16 +100,19 @@
 
     .nav-link{
         padding-left: 0rem!important;
-        padding-top: .5rem!important;
+        padding-top: .7rem!important;
+        font-size: 15px;
     }
 
     .login-button{
         width: 30%;
-        padding: .3rem .2rem;
+        padding: .3rem 0rem;
         border-top-left-radius: 5px;
-    border-top-right-radius: 5px;
-    border-bottom-left-radius: 5px;
-    border-bottom-right-radius: 5px;
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+        border-bottom-right-radius: 5px;
+        margin-top: .5rem;
+        font-size: 15px;
 
     }
 
