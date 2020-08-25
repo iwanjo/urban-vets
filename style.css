@@ -48,16 +48,24 @@
 
 #headline-area{
     background-color: var(--main-bg-color);
-    padding-top: 10rem;
+    padding-top: 8rem;
 }
 
 #row1{
-    padding-left: 1rem;
+    padding-left: .8rem;
 }
 
 .headline-title{
     color: var(--headline-color);
     font-size: 85px;
     font-weight: bold;
-    
+    padding-bottom: 1.5rem;
+}
+
+.headline-text{
+    color: white;
+    font-size: 19px;
+    padding-right: 10rem;
+    padding-bottom: 8rem;
+    text-align: justify;
 }
