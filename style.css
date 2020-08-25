@@ -17,7 +17,7 @@
 }
 
 .nav-link, .navbar-brand{
-    color: blue!important;
+    color: white!important;
     
 }
 
@@ -85,7 +85,7 @@
     }
 
     .navbar-toggler{
-        background: blue;
+        background: white;
     }
 
     .nav-link, .navbar-brand{
@@ -94,8 +94,23 @@
     }
 
     .navbar-brand{
-        font-size: 20px;
-        padding-top: 1rem;
+        font-size: 25px;
+        padding-top: 1.2rem;
+    }
+
+    .nav-link{
+        padding-left: 0rem!important;
+        padding-top: .5rem!important;
+    }
+
+    .login-button{
+        width: 30%;
+        padding: .3rem .2rem;
+        border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+
     }
 
 
