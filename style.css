@@ -13,11 +13,16 @@
 
 #navbar{
     background-color: var(--main-bg-color);
+    padding-top: 1rem;
 }
 
 .nav-link, .navbar-brand{
-    color: white!important;
+    color: blue!important;
     
+}
+
+.navbar-brand{
+    font-size: 23px;
 }
 
 .nav-link{
