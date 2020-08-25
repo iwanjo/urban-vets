@@ -128,7 +128,19 @@
     }
 
     .animalImg{
-        margin-top: 28rem;
+        margin-top: 17rem;
+        margin-left: -17rem;
+    }
+
+    .headline-text{
+        padding-top: 24rem;
+        width: 160%;
+        font-size: 15px;
+        text-align: center;
+        
+        
+        
+        
     }
 
 
