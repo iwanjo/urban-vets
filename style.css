@@ -116,5 +116,22 @@
 
     }
 
+    #headline-area{
+        padding-top: 4rem;
+    }
+
+    .headline-title{
+        font-size: 70px;
+        width: 150%;
+       padding-left: 0rem;
+       text-align: center;
+    }
+
+    .animalImg{
+        margin-top: 28rem;
+    }
+
+
+
 
 }
