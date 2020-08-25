@@ -8,7 +8,7 @@
 :root{
     --main-bg-color: #284853;
     --main-text-color: #203A43;
-    --headline-color: #11998e;
+    --headline-color: #17b8aa;
 }
 
 #navbar{
@@ -42,4 +42,22 @@
 .login-button:hover{
     background-color: white;
     color: var(--main-text-color);
+}
+
+/* headline area */
+
+#headline-area{
+    background-color: var(--main-bg-color);
+    padding-top: 10rem;
+}
+
+#row1{
+    padding-left: 1rem;
+}
+
+.headline-title{
+    color: var(--headline-color);
+    font-size: 85px;
+    font-weight: bold;
+    
 }
