@@ -203,8 +203,17 @@
     }
 
     #cardOne, #cardTwo{
-        margin-top: 3rem;
+        margin-top: 4rem;
         margin-left: 2rem;
+    }
+
+    .swirl1{
+        margin-left: 0rem;
+        margin-top: -43rem;
+    }
+
+    .swirl2{
+        margin-left: 19rem;
     }
 
     
