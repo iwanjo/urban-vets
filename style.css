@@ -81,6 +81,25 @@
     height: 500px;
     margin-top: -4rem;
 }
+.vetImg{
+    height: 80px;
+}
+
+.vets{
+    color: var(--headline-color);
+    font-size: 40px;
+    font-weight: bold;
+    padding-left: 5.5rem;
+    margin-top: -5rem;
+}
+
+.apply-vets{
+    padding-left: 5.5rem;
+    font-size: 17px;
+    
+}
+
+
 
 
 /* Mobile responsiveness */
