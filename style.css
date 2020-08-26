@@ -56,10 +56,10 @@
     padding-top: 8rem;
 }
 
-#row1{
+/* #row1{
     padding-left: .8rem;
     
-}
+} */
 
 .headline-title{
     color: var(--headline-color);
@@ -128,22 +128,28 @@
 
     .headline-title{
         font-size: 70px;
-        width: 150%;
+        width: 100%;
        padding-left: 0rem;
        text-align: center;
     }
 
+    #row1{
+        overflow-x: hidden;
+    }
+
     .animalImg{
-        display: none;
-        margin-top: 17rem;
-        margin-left: -17rem;
+        margin-top: -7rem;
+        margin-left: 1.5rem;
+        height: 300px;
+        
     }
 
     .headline-text{
         font-size: 14px;
-        margin-left: 7rem;
         text-align: center;
-        width: 170%;
+        width: 140%;
+        padding-left: .8rem;
+        /* display: none; */
         
         
     }
