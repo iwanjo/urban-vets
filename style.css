@@ -185,6 +185,34 @@
         
     }
 
+    .card-item{
+        width: 20rem!important;
+    }
+
+    .vetImg{
+        height: 45px;
+    }
+
+    .vets{
+        font-size: 30px;
+        padding-top: 2rem;
+    }
+
+    .apply-vets{
+        font-size: 14px;
+    }
+
+    #cardOne, #cardTwo{
+        margin-top: 3rem;
+        margin-left: 2rem;
+    }
+
+    
+
+    
+
+    
+
 
 
 
