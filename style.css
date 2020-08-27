@@ -133,6 +133,33 @@
 .arrow-down{
     height: 50px;
     margin-left: 34rem;
+    margin-bottom: 5rem;
+}
+
+/* steps */
+.hire-vets{
+    height: 300px;
+}
+
+#imgCol1{
+    padding-left: 4rem;
+}
+
+.step-one{
+    padding-top: 3rem;
+    color: rgb(24, 139, 68);
+}
+
+.great-vets{
+    padding-top: .7rem;
+    color: var(--headline-color);
+    font-weight: bold;
+}
+
+.great-text{
+    padding-top: .7rem;
+    color: var(--main-text-color);
+    text-align: justify;
 }
 
 
