@@ -111,6 +111,30 @@
     margin-top: -23rem;
 }
 
+/* works section */
+
+#works{
+    padding-top: 7rem;
+}
+
+.start{
+    color: var(--headline-color);
+    font-weight: bold;
+    padding-bottom: 1.5rem;
+}
+
+.how-works{
+    color: var(--main-text-color);
+    font-weight: bold;
+    font-size: 60px;
+    padding-bottom: 1.5rem;
+}
+
+.arrow-down{
+    height: 50px;
+    margin-left: 34rem;
+}
+
 
 
 
