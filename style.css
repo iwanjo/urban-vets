@@ -336,6 +336,27 @@
         margin-left: -2.8rem;
     }
 
+    #partnerImg{
+        margin-left: 2.5rem;
+    }
+
+    #happyImg{
+        margin-left: -.5rem;
+    }
+
+    #result{
+        margin-left: -.5rem;
+    }
+
+    #happyText{
+        padding: .5rem 3rem;
+
+    }
+
+    #doctorsText{
+        padding: .5rem 2rem;
+    }
+
     
 
     
