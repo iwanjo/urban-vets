@@ -115,6 +115,7 @@
 
 #works{
     padding-top: 7rem;
+    padding-bottom: 5rem;
 }
 
 .start{
@@ -176,6 +177,13 @@
 
 #happyImg{
     margin-top: 2rem;
+}
+
+/* mission section */
+
+#mission{
+    padding-top: 6rem;
+    background-color: #f4f7f0;
 }
 
 
