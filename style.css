@@ -304,6 +304,23 @@
         height: 40px;
     }
 
+    .step-one, .great-vets{
+        text-align: center;
+    }
+
+    .great-vets{
+        font-size: 32px;
+    }
+
+    .great-text{
+        text-align: center;
+        font-size: 14px;
+    }
+
+    #urbanvetsPara{
+        padding: .5rem 1.5rem;
+    }
+
     
 
     
