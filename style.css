@@ -394,6 +394,30 @@
         padding: .5rem 2rem;
     }
 
+    #missionImg{
+        margin-left: 0rem!important;
+    }
+
+    .mission-title{
+        text-align: center;
+        font-size: 34px;
+        padding-top: 1rem;
+
+    }
+
+    .mission-text{
+        text-align: center;
+        padding: .5rem 1.7rem;
+        font-size: 14px;
+        padding-bottom: 1.3rem;
+    }
+
+    .mission-button{
+        margin-left: 25%;
+    }
+
+    
+
     
 
     
