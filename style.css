@@ -186,6 +186,35 @@
     background-color: #f4f7f0;
 }
 
+.mission-title{
+    color: var(--main-bg-color);
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.mission-text{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    color: var(--main-text-color);
+    text-align: justify;
+}
+
+.mission-button{
+    padding: .8rem 1.8rem;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border: 1px solid #17b8aa;
+    background: transparent;
+    color: #17b8aa;
+}
+
+.mission-button:hover{
+    background-color: #17b8aa;
+    color: white;
+}
+
 
 
 
