@@ -284,6 +284,26 @@
         margin-left: 18rem;
     }
 
+    /* works section */
+    .start{
+        font-size: 23px;
+    }
+
+    .how-works{
+        font-size: 32px;
+    }
+
+    #imgOne{
+        height: 250px;
+        margin-top: -2rem;
+        margin-left: .5rem;
+    }
+
+    .arrow-down{
+        margin-left: 45%;
+        height: 40px;
+    }
+
     
 
     
