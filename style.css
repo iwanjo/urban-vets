@@ -225,6 +225,17 @@
     margin-left: 4rem;
 }
 
+.sounds-good, .open-positions, .hospital-partner{
+    color: white;
+    padding-left: 5rem;
+}
+
+.sounds-good{
+    font-weight: bold;
+    font-size: 60px;
+    padding-bottom: 1rem;
+}
+
 
 
 
