@@ -219,6 +219,7 @@
 #letsDoThis{
    padding-top: 7rem; 
    background-color: #203A43;
+   padding-bottom: 6rem;
 }
 
 #teamImg{
@@ -234,6 +235,10 @@
     font-weight: bold;
     font-size: 60px;
     padding-bottom: 1rem;
+}
+
+.social-media{
+    height: 30px;
 }
 
 
