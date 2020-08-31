@@ -437,6 +437,28 @@
         margin-left: 25%;
     }
 
+    #teamImg{
+        margin-left: 2.5rem;
+    }
+
+    .sounds-good, .open-positions, .hospital-partner{
+        color: white;
+    }
+
+    .sounds-good{
+        font-size: 45px;
+        margin-left: -.5rem;
+        padding-right: 2rem;
+    }
+
+    .open-positions, .hospital-partner{
+        padding-top: 1rem;
+        font-size: 14px;
+        padding-right: 4rem;
+    }
+
+    
+
     
 
     
