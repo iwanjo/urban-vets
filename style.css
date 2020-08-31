@@ -217,7 +217,12 @@
 }
 
 #letsDoThis{
-    
+   padding-top: 7rem; 
+   background-color: #203A43;
+}
+
+#teamImg{
+    margin-left: 4rem;
 }
 
 
